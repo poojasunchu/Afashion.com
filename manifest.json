@@ -1,0 +1,353 @@
+{
+	"name":"AFashion",
+	"short_name": "AFashion",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"background_color": "#fff",
+	"orientation":"portrait-primary",
+	"icons":[
+		{
+			"src": "images/banner/01.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/banner/02.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/banner/add.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/banner/banner-fashion-02.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/banner/banner-fashion-03.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/banner/banner-fashion.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/1.jpg",
+			"type": "images/jpg"		},
+		{
+			"src": "images/bg/10.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/2.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/3.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/4.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/5.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/6.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/7.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/8.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/9.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/best-product.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/brand-bg.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/breadcumb.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/breadcumb2.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/breadcumb3.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/bg/testimonial.jpg",
+			"type": "images/jpg"
+		},
+
+		{
+			"src": "images/blog/01.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/blog/02.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/blog/03.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/blog/04.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/blog/05.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/blog/06.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/blog/07.jpg",
+			"type": "images/jpg"
+		},{
+			"src": "images/blog/about.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/blog/author.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/blog/demo.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/blog/skill.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/brand/01.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/brand/02.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/brand/03.png",
+			"type": "images/png"
+		},{
+			"src": "images/brand/04.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/brand/05.png",
+			"type": "images/png"
+		},
+			{
+			"src": "images/brand/06.png",
+			"type": "images/png"
+		},
+			{
+			"src": "images/gallery/01.png",
+			"type": "images/png"
+		},	
+		{
+			"src": "images/gallery/02.png",
+			"type": "images/png"
+		},
+
+		{
+			"src": "images/gallery/03.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/gallery/04.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/gallery/05.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/gallery/06.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/icons/acc.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/icons/compact.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/icons/coupon.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/icons/delivery.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/icons/garantee.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/icons/pay1.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/icons/pay2.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/icons/pay3.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/icons/pay4.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/icons/pay5.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/icons/support.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/icons/tab-style.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/logo/logo.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/pattern/pattern-bg.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/product/01.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/02.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/03.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/04.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/05.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/06.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/07.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/banner-01.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/banner-02.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/banner-03.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/rp01.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/rp02.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/rp03.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/rp04.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/s01.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/product/s02.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/slider/slider01.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/slider/slider02.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/team/01.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/team/02.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/team/03.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/team/04.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/team/branding.png",
+			"type": "images/png"
+		},
+		{
+			"src": "images/team/testi-01.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/team/testi-02.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "images/team/testi-03.jpg",
+			"type": "images/jpg"
+		},
+		{
+			"src": "img/icons/ajax-loader.gif",
+			"type": "images/gif"
+		}	
+	]
+}
